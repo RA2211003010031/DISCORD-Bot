@@ -1,0 +1,5 @@
+# All these will be saved in a .env file so that the tokens can be accessed by the program and the bots can be linked to the program
+
+DISCORD_TOKEN=
+TELEGRAM_TOKEN=
+TELEGRAM_CHAT_ID=
